@@ -1,4 +1,3 @@
-
 // Get chatbot elements
 const chatbot = document.getElementById('chatbot');
 const conversation = document.getElementById('conversation');
@@ -181,3 +180,4 @@ function generateResponse(input) {
 
   return response;
 }
+
